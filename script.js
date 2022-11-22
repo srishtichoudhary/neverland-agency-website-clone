@@ -1,6 +1,4 @@
 
-
-
 function dom(){
     const canvas = document.querySelector("#home>canvas");
     const context = canvas.getContext("2d");
